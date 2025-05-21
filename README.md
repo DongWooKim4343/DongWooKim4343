@@ -11,8 +11,10 @@
 
 <!-- GitHub 스탯 카드 섹션 (나란히 배치) -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongWooKim4343&layout=compact&theme=tokyonight" width="41%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=DongWooKim4343&show_icons=true&theme=tokyonight" width="46%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongWooKim4343&layout=compact&theme=tokyonight" width="38%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=DongWooKim4343&show_icons=true&theme=tokyonight" width="42.4%" />
+  
 </div>
 
 <br>
