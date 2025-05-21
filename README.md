@@ -18,7 +18,7 @@
 <br>
 
 <details>
-  <summary align="center" > <h2> 👨‍💻 About Me 👨‍💻 </h2></summary>
+  <summary align="center" > <strong> 👨‍💻 About Me 👨‍💻 </strong> </summary>
 
 <!-- 교육 -->
 ## 🎓 Education
