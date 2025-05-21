@@ -1,5 +1,5 @@
-<h2 align="center"> 👨‍💻 About 👨‍💻 </h2> 
-<h3 align="center"> 📚 Tech Stack 📚 </h3> 
+
+<h2 align="center"> 📚 Tech Stack 📚 </h2> 
 <div align="center">
   <img src="https://img.shields.io/badge/Java%20-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring%20Boot%20-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" alt="Spring Boot"/>
@@ -11,17 +11,14 @@
 
 <!-- GitHub 스탯 카드 섹션 (나란히 배치) -->
 <div align="center">
-  <a href="https://github.com/DongWooKim4343/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongWooKim4343&layout=compact&theme=tokyonight" width="41%" />
-  </a>
-  <a href="https://github.com/DongWooKim4343/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=DongWooKim4343&show_icons=true&theme=tokyonight" width="46%" />
-  </a>
-  
 </div>
 
+<br>
 
-
+<details>
+  <summary align="center" > <h2> 👨‍💻 About Me 👨‍💻 </h2></summary>
 
 <!-- 교육 -->
 ## 🎓 Education
@@ -51,8 +48,10 @@
 <ul>
   <li>2024.06.21 <strong>SQL 개발자(SQLD) - 한국데이터산업진흥원</strong></li>
 </ul>
+<br>
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kd6904)](https://solved.ac/kd6904)
+</details>
 
 <!--
 ### 현재 사용가능 기술 및 언어 
