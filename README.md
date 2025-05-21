@@ -1,16 +1,22 @@
 
-<h2 align="center"> 📚 Tech Stack 📚 </h2> 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java%20-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+<h2> 📚 Tech Stack 📚 </h2> 
+<div>
+  Core Stack<br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot%20-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA%20-6DB33F?style=flat-square" alt="Spring Data JPA"/>
   <img src= "https://img.shields.io/badge/MySQL%20-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL"/>
+  <br>
+  Lightly Explored<br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/> 
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
 </div>
 
 <br>
 
 <!-- GitHub 스탯 카드 섹션 (나란히 배치) -->
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongWooKim4343&layout=compact&theme=tokyonight" width="38%" />
   &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=DongWooKim4343&show_icons=true&theme=tokyonight" width="42.4%" />
@@ -20,7 +26,7 @@
 <br>
 
 <details>
-  <summary align="center" > <strong> 👨‍💻 About Me 👨‍💻 </strong> </summary>
+  <summary> <strong> 👨‍💻 About Me 👨‍💻 </strong> </summary>
 
 <!-- 교육 -->
 ## 🎓 Education
