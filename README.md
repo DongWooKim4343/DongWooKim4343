@@ -46,9 +46,9 @@
 <!-- 프로젝트 -->
 ## 👯 Project
 <ul>
-  <li> 24.9.23 ~ 24.10.10 <strong> [훈민정음] 외국인 대상 한국어 학습 및 모임 서비스 </strong></li>
-  <li> 24.11.15 ~ 24.12.10 <strong> [말랑 플레이스] 반려인을 위한 위치기반 지도 커뮤니티 </strong></li>
-  <li> 24.12.31 ~ 25.02.21 <strong> [ZIC] 음악 연습실을 쉽고 빠르게 관리할 수 있게 돕는 서비스 </strong></li>
+  <li> 24.09.23 ~ 24.10.10 <strong> [<a href="https://github.com/prgrms-be-devcourse/NBE2_2_Team7">훈민정음</a>] 외국인 대상 한국어 학습 및 모임 서비스 </strong></li>
+  <li> 24.11.15 ~ 24.12.10 <strong> [<a href="https://github.com/prgrms-web-devcourse-final-project/WEB1_2_Mallangs_BE">말랑플레이스</a>] 반려인을 위한 위치기반 지도 커뮤니티 </strong></li>
+  <li> 24.12.31 ~ 25.02.21 <strong> [<a href="https://github.com/UMC-ZIC/ZIC">ZIC</a>] 음악 연습실을 쉽고 빠르게 관리할 수 있게 돕는 서비스 </strong></li>
 </ul>
 
 <!-- 자격증 -->
