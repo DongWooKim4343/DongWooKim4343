@@ -26,7 +26,7 @@
 <br>
 
 <details>
-  <summary> <strong> 👨‍💻 About Me 👨‍💻 </strong> </summary>
+  <summary> <strong>  About Me  </strong> </summary>
 
 <!-- 교육 -->
 ## 🎓 Education
