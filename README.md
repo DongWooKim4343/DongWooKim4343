@@ -33,7 +33,7 @@
 <ul>
   <li>2024.07 ~ 2024.12 <strong> 프로그래머스 백엔드 데브코스 1기 수료 - 그렙</strong></li>
   <li>2024.01 ~ 2024.02 <strong> Java Classic1 과정 수료 - NHN아카데미</strong></li>
-  <li>2021.03 ~ 2025.02 <strong> 울산대학교 의공학 & 스마트제조ICT 복수전공</strong></li>
+  <li>2021.03 ~ 2025.02 <strong> 울산대학교 의공학 & 스마트제조ICT(USG공유대학) 복수전공</strong></li>
 </ul>
 
 <!-- 활동 -->
