@@ -28,6 +28,12 @@
 <details>
   <summary> <strong>  About Me  </strong> </summary>
 
+  <!--직장 -->
+## 👨🏻‍💻 Work
+<ul>
+  <li>2025.07 ~  <strong> GS엔텍 DX팀 소프트웨어 개발자</strong></li>
+</ul>
+
 <!-- 교육 -->
 ## 🎓 Education
 <ul>
