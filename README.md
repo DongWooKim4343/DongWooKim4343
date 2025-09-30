@@ -46,6 +46,7 @@
 ## 🏃 Experience
 <ul>
   <li>2024.09 ~ 2025.02 <strong> UMC 7기 (University MakeUs Challenge) Spring Boot 파트 참여 </strong></li>
+  <li>2024.03 ~ 2024.08 <strong> UMC 6기 (University MakeUs Challenge) Spring Boot 파트 참여 </strong></li>
 </ul>
 
 <!-- 프로젝트 -->
